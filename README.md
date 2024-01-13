@@ -20,5 +20,6 @@ SVM, Tree, ve kNN gibi algoritmalar kullanılarak tahminlerin (predictions), ger
 ### 5. Sonuç
 Bu çalışma sonucunda insanların yüz hatlarının verileriyle cinsiyetlerinin yüksek doğruluk oranlarıyla tespit edilebileceği görülmüştür. Yalnızca 500 veri ile olan bu yüksek doğruluk oranları, daha fazla veri ile daha yüksek doğruluk oranları olmasını sağlayacaktır. Kullanılan veri seti ve .ows uzantılı dosya aşağıda verilmiştir.
 
-##Doğruluk Testi kNN Algoritması Sonuçları
+## Doğruluk Testi kNN Algoritması Sonuçları
+
 ![Ekran görüntüsü 2024-01-14 000630](https://github.com/bilgehandl/Orange-ile-Veri-Analizi/assets/155401177/a225a753-5d90-448e-a6de-62dea60e5217)
